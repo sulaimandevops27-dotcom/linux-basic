@@ -1,18 +1,8 @@
-# How to check (memory, cpu disk)
-This guide how to check your memory, disk
+# How to check (memory, cpu, disk)
+This guide explains how to check your memory, CPU, and disk usage.
 
 ---
 
 ##✅ Step 1: Check Memory Usage
 ```bash
 free -h
-```
----
-
-##✅ Step 2: Check CPU Information
-```bash
-lscpu
-
-##✅ Step 3: Check Disk Usage
-df -h
-System information checked successfully!
