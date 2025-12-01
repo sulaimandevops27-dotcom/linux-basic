@@ -44,7 +44,7 @@ linux-level-1/
 
 ## 📚 Description of Sections
 
-### 1️⃣ Users & Groups
+### 1️⃣ [Users & Groups](users-and-groups/README.md)
 Covers how to:
 - Create users  
 - Create groups  
