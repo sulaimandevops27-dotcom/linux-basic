@@ -1,36 +1,16 @@
-
-# Check system info (memory, CPU, disks)
-
----
-
-## ✅ Step 1: Check hostname and operating system
-```bash
+# 🔹 Step 1: Check Hostname and Operating System
 hostname
 lsb_release -d
 
-```
-
----
-
-## ✅ Step 2: Check CPU information
-```bash
+# 🔹 Step 2: Check CPU Information
 lscpu | grep -E "Model name|Architecture|CPU\(s\)"
-```
 
----
-
-## 📌 Optional: Install Java 17
-```bash
+# 🔹 Step 3: Optional - Install Java 17
+sudo apt update
 sudo apt install -y openjdk-17-jdk
-```
 
----
-
-## ✅ Step 3: Check Java version
-```bash
+# 🔹 Step 4: Check Java Version
 java -version
-```
 
----
+# 🎉 All Done!
 
-## 🎉 Java installation complete!
