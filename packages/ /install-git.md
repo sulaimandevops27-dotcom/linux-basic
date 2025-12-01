@@ -25,4 +25,4 @@ git --version
 
 ---
 
-## 🎉 Git installation complete!
+
