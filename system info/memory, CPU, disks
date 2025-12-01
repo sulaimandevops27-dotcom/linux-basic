@@ -1,0 +1,9 @@
+# How to check (memory, cpu disk)
+This guide how to check your memory, disk
+✅ Step 1: Check Memory Usage
+free -h
+✅ Step 2: Check CPU Information
+lscpu
+✅ Step 3: Check Disk Usage
+df -h
+System information checked successfully!
