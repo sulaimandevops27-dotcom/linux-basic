@@ -1,6 +1,6 @@
 # 🐧 Linux Level 1 – Linux Demo
 
-This repository contains foundational Linux practice tasks for beginners and DevOps learners.  
+This repository contains foundational Linux practice tasks for beginners and 
 All commands are simple and tested on **Ubuntu Linux**.
 
 ---
