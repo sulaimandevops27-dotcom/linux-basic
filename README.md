@@ -16,26 +16,27 @@ All commands are simple and performed on a Linux system (Ubuntu recommended).
 
 ## 📁 Folder Structure
 linux-level-1/
-│
-├── users-and-groups/
-│   ├── create-user.md
-│   ├── create-group.md
-│   └── add-user-to-group.md
-│
-├── permissions/
-│   ├── change-ownership.md
-│   ├── change-group.md
-│   └── change-permissions.md
-│
-├── packages/
-│   ├── install-git.md
-│   ├── install-nginx.md
-│   └── install-java.md
-│
-└── system-info/
-    ├── memory.md
-    ├── cpu.md
-    └── disk.md
+|
+|-- users-and-groups/
+|     |-- create-user.md
+|     |-- create-group.md
+|     |-- add-user-to-group.md
+|
+|-- permissions/
+|     |-- change-ownership.md
+|     |-- change-group.md
+|     |-- change-permissions.md
+|
+|-- packages/
+|     |-- install-git.md
+|     |-- install-nginx.md
+|     |-- install-java.md
+|
+|-- system-info/
+      |-- memory.md
+      |-- cpu.md
+      |-- disk.md
+
 
 
     
