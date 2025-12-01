@@ -3,4 +3,6 @@
 ## ✅ Step 1: Create a new user
 ```bash
 sudo useradd -m -s /bin/bash devuser1
+
 ## Step 2: Set password for the user
+```
