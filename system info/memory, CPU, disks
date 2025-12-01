@@ -1,34 +1,9 @@
-#!/bin/bash
-# Simple script to check memory, CPU, disk usage, and uptime
+# 💻 How to Check System Resources in Linux
 
-echo "-----------------------------------------"
-echo "🖥️  System Information"
-echo "-----------------------------------------"
+This guide provides the essential commands to check memory, CPU, and disk usage.
 
-echo
-echo "✅ Step 1: Hostname and OS"
-hostname
-lsb_release -d
+## Step 1: Check Memory Usage
+Use `free -h` to display the used, free, and available RAM and swap space in a human-readable format.
 
-echo
-echo "✅ Step 2: CPU Information"
-lscpu | grep -E "Model name|Architecture|CPU\(s\)"
-
-echo
-echo "✅ Step 3: Memory Usage"
+```bash
 free -h
-
-echo
-echo "✅ Step 4: Disk Usage"
-df -h | grep -E '^/dev/'
-
-echo
-echo "✅ Step 5: System Uptime"
-uptime -p
-
-echo
-echo "✅ Optional: Top 5 Processes by CPU and Memory"
-ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head -n 6
-
-echo
-echo "🎉 System check complete!"
