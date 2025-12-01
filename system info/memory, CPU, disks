@@ -1,7 +1,36 @@
-# 💻 Linux System Resource Check Script
 
-This script provides the essential commands to check memory, CPU, and disk usage.
+# Check system info (memory, CPU, disks)
 
-## Step 1: Check Memory Usage
+---
+
+## ✅ Step 1: Check hostname and operating system
 ```bash
-free -h
+hostname
+lsb_release -d
+
+```
+
+---
+
+## ✅ Step 2: Check CPU information
+```bash
+lscpu | grep -E "Model name|Architecture|CPU\(s\)"
+```
+
+---
+
+## 📌 Optional: Install Java 17
+```bash
+sudo apt install -y openjdk-17-jdk
+```
+
+---
+
+## ✅ Step 3: Check Java version
+```bash
+java -version
+```
+
+---
+
+## 🎉 Java installation complete!
