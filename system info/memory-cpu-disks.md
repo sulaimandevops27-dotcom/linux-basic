@@ -1,6 +1,6 @@
 # 🔹 Check System Info and Install Java on Linux
 
-This guide explains how to check system information (memory, CPU, disk usage, uptime) and install Java (OpenJDK) on a Linux system.
+This guide explains how to check system information (memory, CPU, disk usage, uptime) and install Java.
 
 ---
 
@@ -76,3 +76,4 @@ java -version
 ---
 
 ## 🎉 All checks and installation complete!
+
