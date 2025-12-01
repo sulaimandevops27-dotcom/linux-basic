@@ -1,6 +1,6 @@
-# Linux Level 1 – Basic DevOps Skills
+# Linux Level 1 – linux demo
 
-This repository contains the foundational Linux tasks required for DevOps beginners.  
+This repository contains the foundational Linux tasks required  
 All commands are simple and performed on a Linux system (Ubuntu recommended).
 
 ---
@@ -15,3 +15,24 @@ All commands are simple and performed on a Linux system (Ubuntu recommended).
 ---
 
 ## 📁 Folder Structure
+linux-level-1/
+│
+├── users-and-groups/
+│   ├── create-user.md
+│   ├── create-group.md
+│   └── add-user-to-group.md
+│
+├── permissions/
+│   ├── change-ownership.md
+│   ├── change-group.md
+│   └── change-permissions.md
+│
+├── packages/
+│   ├── install-git.md
+│   ├── install-nginx.md
+│   └── install-java.md
+│
+└── system-info/
+    ├── memory.md
+    ├── cpu.md
+    └── disk.md
