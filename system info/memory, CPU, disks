@@ -1,9 +1,7 @@
-# 💻 How to Check System Resources in Linux
+# 💻 Linux System Resource Check Script
 
-This guide provides the essential commands to check memory, CPU, and disk usage.
+This script provides the essential commands to check memory, CPU, and disk usage.
 
 ## Step 1: Check Memory Usage
-Use `free -h` to display the used, free, and available RAM and swap space in a human-readable format.
-
 ```bash
 free -h
