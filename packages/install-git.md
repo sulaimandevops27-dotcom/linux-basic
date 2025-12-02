@@ -1,4 +1,4 @@
-# How to Install Git on Ubuntu
+# How to Install Git 
 
 This guide shows how to install and verify Git.
 
