@@ -1,4 +1,4 @@
-# How to Change File Ownership in Linux (chown)
+# How to Change File Ownership  (chown)
 
 This guide explains how to change the owner of a file or directory.
 
