@@ -1,4 +1,4 @@
-# How to Change Group Ownership in Linux (chgrp)
+# How to Change Group Ownership  (chgrp)
 
 ## ✅ Step 1: Check group of a file
 ```bash
