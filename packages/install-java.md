@@ -1,4 +1,4 @@
-# How to Install Java (OpenJDK) on Ubuntu
+# How to Install Java (OpenJDK) 
 
 This guide explains how to install Java for development.
 
