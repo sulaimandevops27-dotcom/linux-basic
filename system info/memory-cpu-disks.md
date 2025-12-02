@@ -1,4 +1,4 @@
-# 🔹 Check System Info and Install Java on Linux
+# 🔹 Check System Info 
 
 This guide explains how to check system information (memory, CPU, disk usage, uptime) and install Java.
 
