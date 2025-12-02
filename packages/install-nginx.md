@@ -1,4 +1,4 @@
-# How to Install Nginx on Ubuntu
+# How to Install Nginx 
 
 This guide explains how to install and manage the Nginx web server.
 
